@@ -1,0 +1,1 @@
+include("crici-welcome-plugin")
