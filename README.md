@@ -9,11 +9,11 @@ To build the project call
 
     ./gradlew build
 
-from the the root directory.
+from the root directory.
 
 ## Contained Custom Plugins
 
-The follwing plugins are part of tis project
+The following plugins are part of this project
 
 * Crici Welcome Plugin - A simple greeter plugin which uses a custom extension for configuration
 
